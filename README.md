@@ -12,7 +12,7 @@
 * 🚀 Embarking on the path of artificial intelligence and project management
 * 🌱 Learning about new AI and applications, diving deep into Data analysis
 * ⚙️ In course: AWS and Azure services, testing
-* 🔭 Passionate in Embedded systems and software development
+* 🔭 Passionate in Embedded systems, software development and data analysis for reporting and control systems
 * 📘 Continuous learning 
 
 ---
